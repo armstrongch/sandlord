@@ -6,8 +6,8 @@ function new_room(room_type)
 	
 	switch(room_type)
 	{
-		case "throne room":
-			desc = "the most important room in the castle. don't allow this to be washed away by the tide!";
+		case "Throne Room":
+			desc = "The most important room in the castle. Don't allow this to be washed away by the tide!";
 			break;
 	}
 	

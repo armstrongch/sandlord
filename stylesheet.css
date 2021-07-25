@@ -5,3 +5,7 @@ body, button {
 div {
 	border-bottom-style: solid;
 }
+
+a {
+	cursor: pointer;
+}
